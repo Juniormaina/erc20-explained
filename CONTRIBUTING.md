@@ -24,7 +24,7 @@ You can help by:
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/erc20-explained.git
+git clone https://github.com/Talent-Index/erc20-explained.git
 ```
 
 Install dependencies
