@@ -122,7 +122,10 @@ forge install
 
 ```bash
 forge build
+curl -L https://foundry.paradigm.xyz | bash
 ```
+source ~/.bashrc
+foundryup //install forge,cast ,anvil,chisel
 
 ### Run Tests
 
